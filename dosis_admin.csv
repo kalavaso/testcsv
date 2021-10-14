@@ -1,4 +1,4 @@
-Fecha,Dosis administradas,Personas vacunadas 1 dosis,Personas vacunadas completamente,% vacunadas completamente
+Fecha,Dosis_administradas,1_dosis,2_dosis,vacunadas_completamente
 3/6/2021,"328,748,57","23,200,887","13,417,362",10.50%
 15/06/2021,"37,803,462","26,422,800","15,175,659",11.88%
 30/06/2021,"45,113,218","30,903,150","19,358,590",15.15%
